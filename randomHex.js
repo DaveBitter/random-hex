@@ -1,4 +1,4 @@
-var randomHex = () => {
+var randomHex = function {
 	var hex = '#'
 	var chars = 'abcdef0123456789'
 
