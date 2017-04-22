@@ -1,6 +1,6 @@
 {
   "name": "randomhexcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny package that will return a random hex code.",
   "main": "randomHex.js",
   "scripts": {
