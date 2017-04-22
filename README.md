@@ -2,9 +2,11 @@
 Returns a random HEX value
 
 ## Usage
-    var randomHex = require(./randomHex.js)
+    npm i randomhexcode
+
+    var randomhexcode = require(randomhexcode.js)
     
-    var hex = randomHex()
+    var hex = randomhexcode()
     // returns for example: #0eca44
 
 ## License
