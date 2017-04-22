@@ -1,12 +1,12 @@
 # Random Hex Code
-Returns a random HEX value
+Returns a random hex code
 
 ## Usage
     npm install randomhexcode
 
     var randomhexcode = require(randomhexcode)
     
-    var hex = randomhexcode()
+    var hex = randomhexcode.generate()
     // returns for example: #0eca44
 
 ## License
