@@ -1,10 +1,10 @@
-# Random-Hex
+# Random Hex Code
 Returns a random HEX value
 
 ## Usage
-    npm i randomhexcode
+    npm install randomhexcode
 
-    var randomhexcode = require(randomhexcode.js)
+    var randomhexcode = require(randomhexcode)
     
     var hex = randomhexcode()
     // returns for example: #0eca44
